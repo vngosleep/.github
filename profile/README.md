@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I am working to bring developers a new way to finish their daily work with well-known tools, libraries, patterns & best practices.
+I am working to bring developers a new way to finish their daily work with well-known tools, libraries, patterns & best practices. This is a side project that I will be doing at night.
+
+All contributors are wellcome.
 
 <!--
 
